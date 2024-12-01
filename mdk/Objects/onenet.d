@@ -1,0 +1,17 @@
+.\objects\onenet.o: ..\driver\onenet\onenet.c
+.\objects\onenet.o: ..\driver\onenet\onenet.h
+.\objects\onenet.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\onenet.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\onenet.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\onenet.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\onenet.o: ..\driver\esp8266\esp8266.h
+.\objects\onenet.o: ..\fireware\driver\inc\stm32f10x_usart.h
+.\objects\onenet.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\onenet.o: ..\fireware\cmsis\core\core_cm3.h
+.\objects\onenet.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\onenet.o: ..\fireware\cmsis\device\system_stm32f10x.h
+.\objects\onenet.o: ..\fireware\cmsis\device\stm32f10x_conf.h
+.\objects\onenet.o: ..\fireware\driver\inc\stm32f10x_gpio.h
+.\objects\onenet.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\onenet.o: ..\fireware\driver\inc\stm32f10x_rcc.h
+.\objects\onenet.o: ..\fireware\driver\inc\misc.h

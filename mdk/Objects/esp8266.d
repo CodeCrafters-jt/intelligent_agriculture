@@ -1,0 +1,16 @@
+.\objects\esp8266.o: ..\driver\esp8266\esp8266.c
+.\objects\esp8266.o: ..\driver\esp8266\esp8266.h
+.\objects\esp8266.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\esp8266.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\esp8266.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\esp8266.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\esp8266.o: ..\fireware\driver\inc\stm32f10x_usart.h
+.\objects\esp8266.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\esp8266.o: ..\fireware\cmsis\core\core_cm3.h
+.\objects\esp8266.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\esp8266.o: ..\fireware\cmsis\device\system_stm32f10x.h
+.\objects\esp8266.o: ..\fireware\cmsis\device\stm32f10x_conf.h
+.\objects\esp8266.o: ..\fireware\driver\inc\stm32f10x_gpio.h
+.\objects\esp8266.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\esp8266.o: ..\fireware\driver\inc\stm32f10x_rcc.h
+.\objects\esp8266.o: ..\fireware\driver\inc\misc.h

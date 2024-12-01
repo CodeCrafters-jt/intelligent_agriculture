@@ -1,0 +1,12 @@
+.\objects\oled.o: ..\driver\oled\oled.c
+.\objects\oled.o: ..\driver\oled\oled.h
+.\objects\oled.o: ..\fireware\driver\inc\stm32f10x_gpio.h
+.\objects\oled.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\oled.o: ..\fireware\cmsis\core\core_cm3.h
+.\objects\oled.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: ..\fireware\cmsis\device\system_stm32f10x.h
+.\objects\oled.o: ..\fireware\cmsis\device\stm32f10x_conf.h
+.\objects\oled.o: ..\fireware\driver\inc\stm32f10x_gpio.h
+.\objects\oled.o: ..\fireware\driver\inc\stm32f10x_rcc.h
+.\objects\oled.o: ..\fireware\cmsis\device\stm32f10x.h
+.\objects\oled.o: ..\fireware\driver\inc\misc.h
